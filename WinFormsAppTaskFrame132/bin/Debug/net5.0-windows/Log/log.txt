@@ -1,0 +1,2 @@
+The DELETE statement conflicted with the REFERENCE constraint "FK__CLASS__TEACHER_I__71D1E811". The conflict occurred in database "MatrixWinFromTask", table "dbo.CLASS", column 'TEACHER_ID'.
+The statement has been terminated.
